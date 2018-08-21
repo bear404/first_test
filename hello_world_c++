@@ -1,9 +1,0 @@
-include<iostream>
-include<string>
-using namespace std
-
-string a="hello"
-int main()
-{
-  cout<<a<<endl;
-}
